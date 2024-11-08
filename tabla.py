@@ -1,3 +1,6 @@
+# Patricia Zaragoza Palma
+# Ingenieria en sistemas computacionales
+
 # Solicitar al usuario qué tabla de multiplicar desea ver
 tabla = int(input("¿Qué tabla de multiplicar deseas ver? "))
 
