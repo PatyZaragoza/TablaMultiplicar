@@ -1,4 +1,5 @@
-#Autor: Patricia Zaragoza Palma
+#Autor: Patricia Zaragoza Palm
+# 3701
 # Ingenieria en sistemas computacionales
 
 # Solicitar al usuario qué tabla de multiplicar desea ver
